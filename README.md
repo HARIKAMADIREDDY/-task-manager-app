@@ -58,3 +58,25 @@ To test the login flow, use any user from the DummyJSON database:
 ## ⚠️ Assumptions & Known Issues
 * **BFF Pattern Assumption:** Because the DummyJSON `addTodo` API only accepts `todo`, `completed`, and `userId`, it actively drops custom fields like `priority` and `isFavorite`. The app assumes a Backend-For-Frontend (BFF) approach, re-attaching these local fields to the API response before saving to Hive.
 * **API Pagination Limitations:** The DummyJSON API does not allow filtering tasks by custom local criteria (like Favorites or Bin). Therefore, infinite scroll pagination is disabled for local-only filters to prevent endless loading loops.
+ #OutputScreenshots
+  <img width="1080" height="2412" alt="Image" src="https://github.com/user-attachments/assets/3b23d768-8842-42de-a1f4-6660fec540c1" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/eeef0fc1-ed19-4171-a46f-2519847726be" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/a660669c-82cb-47e6-bca3-114f16d02970" />
+
+<img width="1080" height="2412" alt="Image" src="https://github.com/user-attachments/assets/abab91e7-2d68-4071-82f0-575de4598ac9" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/0331e5cd-056a-4c36-9649-24f47bd327bb" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/64a14e9d-72d5-4860-b824-c8315b64a8a2" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/a6153913-15ca-4bbc-b22d-b73110568fff" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/bd25f480-9b05-4a60-ab8f-1e831ffa8e68" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/040c1796-3e7a-4c89-ab28-fc35910d51d9" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/2d768988-9828-4fe4-9fd3-e241e2e73832" />
+
+<img width="540" height="1206" alt="Image" src="https://github.com/user-attachments/assets/953f45cb-110f-49c3-9dd5-b4ad7782c5c2" />
