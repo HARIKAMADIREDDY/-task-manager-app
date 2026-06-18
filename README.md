@@ -65,6 +65,8 @@ To test the login flow, use any user from the DummyJSON database:
   <img src="https://github.com/user-attachments/assets/eeef0fc1-ed19-4171-a46f-2519847726be" width="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a660669c-82cb-47e6-bca3-114f16d02970" width="200" />
+ <img   src="https://github.com/user-attachments/assets/c3dfc84e-afb4-4011-8239-1c65d822709a"width="200" />
+
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/abab91e7-2d68-4071-82f0-575de4598ac9" width="200" />
   &nbsp;&nbsp;&nbsp;
