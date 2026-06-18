@@ -62,10 +62,10 @@ To test the login flow, use any user from the DummyJSON database:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3b23d768-8842-42de-a1f4-6660fec540c1" width="200" />
   &nbsp;&nbsp;&nbsp;
+  <img   src="https://github.com/user-attachments/assets/c3dfc84e-afb4-4011-8239-1c65d822709a"width="200" />
   <img src="https://github.com/user-attachments/assets/eeef0fc1-ed19-4171-a46f-2519847726be" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/a660669c-82cb-47e6-bca3-114f16d02970" width="200" />
- <img   src="https://github.com/user-attachments/assets/c3dfc84e-afb4-4011-8239-1c65d822709a"width="200" />
+
 
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/abab91e7-2d68-4071-82f0-575de4598ac9" width="200" />
@@ -73,6 +73,8 @@ To test the login flow, use any user from the DummyJSON database:
   <img src="https://github.com/user-attachments/assets/0331e5cd-056a-4c36-9649-24f47bd327bb" width="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/64a14e9d-72d5-4860-b824-c8315b64a8a2" width="200" />
+    <img src="https://github.com/user-attachments/assets/a660669c-82cb-47e6-bca3-114f16d02970" width="200" />
+  
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/a6153913-15ca-4bbc-b22d-b73110568fff" width="200" />
   &nbsp;&nbsp;&nbsp;
